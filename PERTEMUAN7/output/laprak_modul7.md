@@ -393,6 +393,7 @@ int main() {
 
 ```
 #### Output:
+![ss_Unguided2_Laprak7_2311102141_Ramadhika Primadana](/PERTEMUAN7/output/modul7.unguided1.1_141.png)
 
 
 Kode di atas digunakan untuk implementasi struktur data Queue atau antrian dengan menggunakan linked list di C++. Antrian diimplementasikan sebagai kelas yang disebut 'Queue', yang memiliki penunjuk depan dan penunjuk belakang untuk melacak elemen depan dan belakang antrian. Antrian dapat menyimpan string sebagai elemennya.
