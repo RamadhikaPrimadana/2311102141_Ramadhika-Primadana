@@ -341,9 +341,9 @@ int main() {
 
     // Menampilkan hasil pencarian dan daftar huruf yang sudah diurutkan
     if (Index_141 != -1) {
-        cout << "[2138] Huruf '" << Target_141 << "' ditemukan pada urutan ke-" << Index_141 << " dalam urutan abjad." << endl;
+        cout << "[2142] Huruf '" << Target_141 << "' ditemukan pada urutan ke-" << Index_141 << " dalam urutan abjad." << endl;
     } else {
-        cout << "[2138] Huruf '" << Target_141 << "' tidak ditemukan dalam kalimat." << endl;
+        cout << "[2142] Huruf '" << Target_141 << "' tidak ditemukan dalam kalimat." << endl;
     }
 
     _getche();  // Menunggu pengguna menekan tombol sebelum program berakhir (hanya untuk Windows)
@@ -427,7 +427,7 @@ int main() {
     int vowelCount_141 = countVowels_141(Kalimat_141);
 
     // Menampilkan hasil perhitungan jumlah huruf vocal
-    cout << "[2138] Banyaknya huruf vocal dalam kalimat adalah : " << vowelCount_141 << endl;
+    cout << "[2141] Banyaknya huruf vocal dalam kalimat adalah : " << vowelCount_141 << endl;
 
     return 0; // Mengembalikan nilai 0 menandakan bahwa program berakhir dengan sukses
 }
